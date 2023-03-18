@@ -1,2 +1,3 @@
 Welcome to Git.
 Add content test for merge confligts
+Welcome to Build Bright University
